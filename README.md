@@ -43,5 +43,6 @@ source(paste0(PATH, "/exps_externalPrequential.R"))
 To generate an HTML report containing all figures and tables in the article, run:
 
 ```
-knitr::knit(paste0(PATH, "/notebook.Rmd"))
+library(STResamplingJDSA)
+knitr::knit(system.file("inst/report.Rmd", package="STResampling-JDSA2020"))
 ```
