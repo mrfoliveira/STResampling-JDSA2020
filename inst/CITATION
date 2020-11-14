@@ -1,0 +1,10 @@
+bibentry(bibtype = "article",          
+         title = "Biased Resampling Strategies for Imbalanced Spatio-Temporal Forecasting",
+         booktitle = "
+International Journal of Data Science and Analytics",
+         author = c(person("Mariana","Oliveira"),
+                    person("Nuno", "Moniz"),
+                    person("Luis","Torgo"),
+                    person("Vitor","Santos Costa")),
+         year = "2020",
+         note = "Submitted")

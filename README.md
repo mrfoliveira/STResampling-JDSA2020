@@ -1,8 +1,8 @@
 # Biased Pre-Processing Strategies for Imbalanced Spatio-Temporal Forecasting (Extension)
 
-This repository contains the research compendium of the journal article:
+This repository contains the research compendium of the (submitted) journal article:
 
-Oliveira, M., Moniz, N., Torgo, L., & Costa, V. S. Biased Resampling Strategies for Imbalanced Spatio-Temporal Forecasting. Submitted on November 2020.
+Oliveira, M., Moniz, N., Torgo, L., & Costa, V. S. Biased Resampling Strategies for Imbalanced Spatio-Temporal Forecasting. Submitted in November 2020.
 
 The journal article is an extension to the conference paper:
 
