@@ -6,7 +6,7 @@ Oliveira, M., Moniz, N., Torgo, L., & Costa, V. S. Biased Resampling Strategies 
 
 The journal article is an extension to the conference paper:
 
-Oliveira, M., Moniz, N., Torgo, L., & Costa, V. S. (2019, October). Biased Resampling Strategies for Imbalanced Spatio-Temporal Forecasting. In 2019 IEEE International Conference on Data Science and Advanced Analytics (DSAA) (pp. 100-109). IEEE. doi: [https://doi.org/10.1109/dsaa.2019.00024](10.1109/DSAA.2019.00024) 
+Oliveira, M., Moniz, N., Torgo, L., & Costa, V. S. (2019, October). Biased Resampling Strategies for Imbalanced Spatio-Temporal Forecasting. In 2019 IEEE International Conference on Data Science and Advanced Analytics (DSAA) (pp. 100-109). IEEE. doi: [10.1109/DSAA.2019.00024](https://doi.org/10.1109/dsaa.2019.00024) 
 
 You are free to use and/or adapt the code we freely provide. However, we do require that if you do that you cite the paper where these results and code were published.
 
