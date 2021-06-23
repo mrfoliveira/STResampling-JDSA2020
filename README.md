@@ -2,9 +2,9 @@
 
 This repository contains the research compendium of the journal article:
 
-**Oliveira, M., Moniz, N., Torgo, L., & Costa, V. S. Biased Resampling Strategies for Imbalanced Spatio-Temporal Forecasting. International Journal of Data Science and Analytics. Accepted.**
+**Oliveira, M., Moniz, N., Torgo, L., & Costa, V. S. (2021, June). Biased Resampling Strategies for Imbalanced Spatio-Temporal Forecasting. International Journal of Data Science and Analytics. doi: [10.1007/s41060-021-00256-2](https://doi.org/10.1007/s41060-021-00256-2) 
 
-The journal article is an extension to the conference paper:
+The journal article is free to read [here](https://rdcu.be/cmXXq). It is an extension to the conference paper:
 
 Oliveira, M., Moniz, N., Torgo, L., & Costa, V. S. (2019, October). Biased Resampling Strategies for Imbalanced Spatio-Temporal Forecasting. In 2019 IEEE International Conference on Data Science and Advanced Analytics (DSAA) (pp. 100-109). IEEE. doi: [10.1109/DSAA.2019.00024](https://doi.org/10.1109/dsaa.2019.00024) 
 
